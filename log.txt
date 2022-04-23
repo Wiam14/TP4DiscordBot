@@ -1,0 +1,22 @@
+wiam#9974: hello2022-04-18 17:40:46.978000
+bot_tp_ing#3127: hola2022-04-18 17:40:47.197000
+wiam#9974: hello2022-04-18 17:42:18.664000 
+bot_tp_ing#3127: hola2022-04-18 17:42:18.860000 
+wiam#9974: hello 2022-04-18 17:43:59.122000
+bot_tp_ing#3127: hola 2022-04-18 17:43:59.334000
+wiam#9974 a envoy�: hello le  2022-04-18 17:45:10.238000
+bot_tp_ing#3127 a envoy�: hola le  2022-04-18 17:45:10.321000
+wiam#9974 a envoye: hola      le  2022-04-18 17:46:09.373000
+wiam#9974 a envoye: hello      le  2022-04-18 17:46:12.156000
+bot_tp_ing#3127 a envoye: hola      le  2022-04-18 17:46:12.443000
+Benji#1211 a envoye: salutttttt      le  2022-04-18 17:48:21.606000
+Benji#1211 a envoye: wesh manalllll      le  2022-04-18 17:48:38.704000
+Benji#1211 a envoye: <@688878010870530198>      le  2022-04-18 17:48:45.109000
+Benji#1211 a envoye: <@688878010870530198>      le  2022-04-18 17:49:16.866000
+wiam#9974 a envoye: salut      le  2022-04-19 07:08:26.571000
+wiam#9974 a envoye: hello      le  2022-04-23 16:10:27.500000
+bot_tp_ing#3127 a envoye: hola      le  2022-04-23 16:10:27.810000
+wiam#9974 a envoye: help      le  2022-04-23 16:11:05.647000
+bot_tp_ing#3127 a envoye: Les differentes commandes utilisables sont: help, hello, !del suivis d'un nombre (pour supprimer les messages pr�c�dents)      le  2022-04-23 16:11:06.015000
+wiam#9974 a envoye: help      le  2022-04-23 21:02:23.708000
+bot_tp_ing#3127 a envoye: Les differentes commandes utilisables sont: help, hello, !del suivis d'un nombre (pour supprimer les messages pr�c�dents)      le  2022-04-23 21:02:24.678000
